@@ -19,3 +19,7 @@
     top: 0px;
     right: 0px;
 }
+
+body.mobile #github_badge {
+    display: none;
+}

@@ -1,4 +1,9 @@
 $(document).ready(function(){
+    var ua_is_mobile = navigator.userAgent.indexOf('iPhone') !== -1 || navigator.userAgent.indexOf('Android') !== -1;
+    if (ua_is_mobile) {
+        $('body').addClass('mobile');
+    }
+  
     var header_title = $('h1').html();
     var map_styles = [
        {
