@@ -1,0 +1,14 @@
+.page_container {
+    width: 100%;
+    height: 600px;
+}
+
+#orders {
+    height: 600px;
+    overflow: auto;
+}
+
+#orders > div {
+    border-bottom: 1px solid #EEE;
+    padding: 10px 5px;
+}

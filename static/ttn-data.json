@@ -1,0 +1,3502 @@
+[
+  {
+    "lon": 4.8867557,
+    "title": "Rockstart Gateway",
+    "rng": 3000.0,
+    "lat": 52.3737171,
+    "created": "2015-09-02T21:49:25.851Z",
+    "updated": "2015-11-19T12:31:29.324Z",
+    "status": "AC",
+    "kickstarter": false
+  },
+  {
+    "lon": 4.861885,
+    "title": "Deloitte Amsterdam Gateway",
+    "rng": 3000.0,
+    "lat": 52.336899,
+    "created": "2015-09-03T09:58:24.680Z",
+    "updated": "2015-11-19T12:31:29.328Z",
+    "status": "AC",
+    "kickstarter": false
+  },
+  {
+    "lon": 4.87556,
+    "title": "KPMG Amsterdam Gateway",
+    "rng": 3000.0,
+    "lat": 52.29532,
+    "created": "2015-09-03T09:58:36.074Z",
+    "updated": "2015-11-19T12:31:29.331Z",
+    "status": "PL",
+    "kickstarter": false
+  },
+  {
+    "lon": 4.88298,
+    "title": "Boven de Balie",
+    "rng": 3000.0,
+    "lat": 52.36304,
+    "created": "2015-09-04T23:04:56.739Z",
+    "updated": "2015-11-19T12:31:29.333Z",
+    "status": "AC",
+    "kickstarter": false
+  },
+  {
+    "lon": 4.89814,
+    "title": "TheNextWeb",
+    "rng": 3000.0,
+    "lat": 52.35997,
+    "created": "2015-09-04T23:09:54.669Z",
+    "updated": "2015-11-19T12:31:29.336Z",
+    "status": "AC",
+    "kickstarter": false
+  },
+  {
+    "lon": 4.902508,
+    "title": "A-Lab",
+    "rng": 3000.0,
+    "lat": 52.384126,
+    "created": "2015-09-04T23:13:09.882Z",
+    "updated": "2015-11-19T12:31:29.338Z",
+    "status": "AC",
+    "kickstarter": false
+  },
+  {
+    "lon": 4.91641,
+    "title": "IoT Meetup",
+    "rng": 3000.0,
+    "lat": 52.37188,
+    "created": "2015-09-04T23:14:09.828Z",
+    "updated": "2015-11-19T12:31:29.340Z",
+    "status": "AC",
+    "kickstarter": false
+  },
+  {
+    "lon": 4.82928,
+    "title": "Disrupted.VC",
+    "rng": 3000.0,
+    "lat": 52.34304,
+    "created": "2015-09-04T23:15:11.607Z",
+    "updated": "2015-11-19T12:31:29.343Z",
+    "status": "PL",
+    "kickstarter": false
+  },
+  {
+    "lon": 4.90029,
+    "title": "Waag Society",
+    "rng": 3000.0,
+    "lat": 52.37281,
+    "created": "2015-09-04T23:15:49.606Z",
+    "updated": "2015-11-19T12:31:29.345Z",
+    "status": "AC",
+    "kickstarter": false
+  },
+  {
+    "lon": 4.89606,
+    "title": "Meet Berlage",
+    "rng": 3000.0,
+    "lat": 52.37518,
+    "created": "2015-09-04T23:17:11.498Z",
+    "updated": "2015-11-19T12:31:29.348Z",
+    "status": "MA",
+    "kickstarter": false
+  },
+  {
+    "lon": 4.8079,
+    "title": "PortOfAmsterdam",
+    "rng": 3000.0,
+    "lat": 52.412,
+    "created": "2015-09-04T23:18:38.760Z",
+    "updated": "2015-11-19T12:31:29.349Z",
+    "status": "PL",
+    "kickstarter": false
+  },
+  {
+    "lon": 76.331919,
+    "title": "Kochi 1",
+    "rng": 5000.0,
+    "lat": 10.070493,
+    "created": "2015-09-21T15:04:50.828Z",
+    "updated": "2015-11-19T12:31:29.352Z",
+    "status": "PL",
+    "kickstarter": false
+  },
+  {
+    "lon": 4.62942240000007,
+    "title": "André Kapitein's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3784713,
+    "created": "2015-10-13T14:32:54.267Z",
+    "updated": "2015-11-19T12:31:29.354Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.8246184,
+    "title": "Leuven",
+    "rng": 5000.0,
+    "lat": 50.9710294,
+    "created": "2015-10-15T12:44:23.822Z",
+    "updated": "2015-11-19T12:31:29.356Z",
+    "status": "AC",
+    "kickstarter": false
+  },
+  {
+    "lon": 8.30542830000002,
+    "title": "Alexey Andrushevich's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 47.0140799,
+    "created": "2015-10-19T08:31:37.750Z",
+    "updated": "2015-11-19T12:31:29.359Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.70940399999995,
+    "title": "Bruno Impens's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.8836595,
+    "created": "2015-10-19T13:13:11.213Z",
+    "updated": "2015-11-19T12:31:29.361Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -64.1887761,
+    "title": "Jose Luis Carmona Morales's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": -31.4200833,
+    "created": "2015-10-19T17:34:27.089Z",
+    "updated": "2015-11-19T12:31:29.364Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -2.01079909999999,
+    "title": "Nestor Ayuso's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 43.3018217,
+    "created": "2015-10-20T14:19:37.857Z",
+    "updated": "2015-11-19T12:31:29.367Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.77153929999997,
+    "title": "David van Schoorisse's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.5913907,
+    "created": "2015-10-20T14:25:26.131Z",
+    "updated": "2015-11-19T12:31:29.369Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.83782999999994,
+    "title": "Gertjan Assies's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.2907754,
+    "created": "2015-10-20T14:25:37.344Z",
+    "updated": "2015-11-19T12:31:29.371Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.09925780000003,
+    "title": "FrancisDB's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.1144075,
+    "created": "2015-10-20T14:39:03.764Z",
+    "updated": "2015-11-19T12:31:29.373Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.71481440000002,
+    "title": "Vince Holland's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.2329632,
+    "created": "2015-10-20T14:53:09.700Z",
+    "updated": "2015-11-19T12:31:29.376Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.04710380000006,
+    "title": "Erik Vollers's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.270968,
+    "created": "2015-10-20T18:37:50.962Z",
+    "updated": "2015-11-19T12:31:29.378Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 39.9452914999999,
+    "title": "Anas Basalamah's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 21.319896,
+    "created": "2015-10-20T20:17:43.100Z",
+    "updated": "2015-11-19T12:31:29.380Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 77.2090212000001,
+    "title": "ramapati's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 28.6139391,
+    "created": "2015-10-20T21:10:35.703Z",
+    "updated": "2015-11-19T12:31:29.383Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.49159510000004,
+    "title": "Innotie's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.9670616,
+    "created": "2015-10-20T21:13:49.660Z",
+    "updated": "2015-11-19T12:31:29.385Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.92617670000004,
+    "title": "RaymondW's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.4954776,
+    "created": "2015-10-20T21:20:09.546Z",
+    "updated": "2015-11-19T12:31:29.387Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.95535270000005,
+    "title": "André's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.4994941,
+    "created": "2015-10-21T06:06:26.359Z",
+    "updated": "2015-11-19T12:31:29.389Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.82458550000001,
+    "title": "Jean Huveneers's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.9710615,
+    "created": "2015-10-21T06:56:31.599Z",
+    "updated": "2015-11-19T12:31:29.392Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 16.9539734,
+    "title": "Jacek's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.4546975,
+    "created": "2015-10-21T07:29:09.876Z",
+    "updated": "2015-11-19T12:31:29.393Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.19605839999997,
+    "title": "BalefireHQ's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.142736,
+    "created": "2015-10-21T08:56:38.322Z",
+    "updated": "2015-11-19T12:31:29.396Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.71592239999995,
+    "title": "WalterT's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0094592,
+    "created": "2015-10-21T09:05:41.628Z",
+    "updated": "2015-11-19T12:31:29.397Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.48404260000007,
+    "title": "Michael's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.8519582,
+    "created": "2015-10-21T11:07:22.285Z",
+    "updated": "2015-11-19T12:31:29.400Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.2922267,
+    "title": "Tom's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0813955,
+    "created": "2015-10-21T11:49:03.359Z",
+    "updated": "2015-11-19T12:31:29.402Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -0.570409000000041,
+    "title": "Mark Hill's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.23622,
+    "created": "2015-10-21T11:53:38.909Z",
+    "updated": "2015-11-19T12:31:29.405Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.04383669999993,
+    "title": "Albert's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.1413756,
+    "created": "2015-10-21T11:55:41.558Z",
+    "updated": "2015-11-19T12:31:29.407Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 11.1217486,
+    "title": "Charalampos's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 46.0747793,
+    "created": "2015-10-21T12:00:34.380Z",
+    "updated": "2015-11-19T12:31:29.409Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.67595849999998,
+    "title": "Tom Rozekrans's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3202088,
+    "created": "2015-10-21T12:01:45.351Z",
+    "updated": "2015-11-19T12:31:29.412Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -114.1820584,
+    "title": "Ivo's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.0632255,
+    "created": "2015-10-21T12:02:45.964Z",
+    "updated": "2015-11-19T12:31:29.414Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.47884640000007,
+    "title": "L Enterprises's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.4550391,
+    "created": "2015-10-21T12:04:34.380Z",
+    "updated": "2015-11-19T12:31:29.416Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -3.67250709999996,
+    "title": "Tako Schotanus's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 40.4085935,
+    "created": "2015-10-21T12:06:16.659Z",
+    "updated": "2015-11-19T12:31:29.419Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.73032669999998,
+    "title": "Jos's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.6235696,
+    "created": "2015-10-21T12:06:54.613Z",
+    "updated": "2015-11-19T12:31:29.421Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 29.7817809000001,
+    "title": "Heikki's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 62.6085293,
+    "created": "2015-10-21T12:08:03.064Z",
+    "updated": "2015-11-19T12:31:29.424Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.48903770000004,
+    "title": "Ewald Beekman's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.2532862,
+    "created": "2015-10-21T12:08:47.188Z",
+    "updated": "2015-11-19T12:31:29.425Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.37153809999995,
+    "title": "Joost den Boer's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.6733235,
+    "created": "2015-10-21T12:15:01.475Z",
+    "updated": "2015-11-19T12:31:29.428Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.32859380000002,
+    "title": "TB's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0808148,
+    "created": "2015-10-21T12:20:36.053Z",
+    "updated": "2015-11-19T12:31:29.430Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 8.66966879999995,
+    "title": "HB9CWP's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 47.3404954,
+    "created": "2015-10-21T12:26:41.469Z",
+    "updated": "2015-11-19T12:31:29.433Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -0.0149033999999801,
+    "title": "Chris Roberts's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.4663345,
+    "created": "2015-10-21T12:28:27.029Z",
+    "updated": "2015-11-19T12:31:29.435Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.40220109999996,
+    "title": "Leander Janssen's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0603037,
+    "created": "2015-10-21T12:35:17.862Z",
+    "updated": "2015-11-19T12:31:29.437Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.13591029999998,
+    "title": "Sjef van Gool's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.48534,
+    "created": "2015-10-21T12:35:19.847Z",
+    "updated": "2015-11-19T12:31:29.440Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 13.152334,
+    "title": "Gerd Pruessmann's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.4741368,
+    "created": "2015-10-21T12:40:02.434Z",
+    "updated": "2015-11-19T12:31:29.442Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.71060880000005,
+    "title": "Bruno Impens's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.8843756,
+    "created": "2015-10-21T12:40:58.072Z",
+    "updated": "2015-11-19T12:31:29.444Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.21195009999997,
+    "title": "InToto's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0635687,
+    "created": "2015-10-21T12:49:05.556Z",
+    "updated": "2015-11-19T12:31:29.447Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 7.00251750000007,
+    "title": "Mardaso's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.271348,
+    "created": "2015-10-21T12:51:15.736Z",
+    "updated": "2015-11-19T12:31:29.449Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.92894860000001,
+    "title": "H. Verbeek's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.4085669,
+    "created": "2015-10-21T13:01:55.815Z",
+    "updated": "2015-11-19T12:31:29.451Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -0.978130299999975,
+    "title": "Mark Stanley's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.4542645,
+    "created": "2015-10-21T13:03:18.454Z",
+    "updated": "2015-11-19T12:31:29.453Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 12.49461,
+    "title": "Morten Høybye Frederiksen's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 55.642954,
+    "created": "2015-10-21T13:12:41.559Z",
+    "updated": "2015-11-19T12:31:29.456Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.46997999999996,
+    "title": "Ronald's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.1719596,
+    "created": "2015-10-21T13:37:01.453Z",
+    "updated": "2015-11-19T12:31:29.457Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.37474099999997,
+    "title": "Filip Onkelinx's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.9460585,
+    "created": "2015-10-21T13:58:25.945Z",
+    "updated": "2015-11-19T12:31:29.460Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.7769505,
+    "title": "David's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.58307,
+    "created": "2015-10-21T13:58:42.780Z",
+    "updated": "2015-11-19T12:31:29.462Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.46972249999999,
+    "title": "Bart van den Berg's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.441642,
+    "created": "2015-10-21T14:00:45.448Z",
+    "updated": "2015-11-19T12:31:29.464Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -1.61778000000004,
+    "title": "Jose Marcelino's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 54.978252,
+    "created": "2015-10-21T14:02:54.109Z",
+    "updated": "2015-11-19T12:31:29.467Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.57921839999995,
+    "title": "Vivekananda Vasipalli's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.9556487,
+    "created": "2015-10-21T14:05:58.168Z",
+    "updated": "2015-11-19T12:31:29.469Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.36550090000003,
+    "title": "Remco Hosman's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0807629,
+    "created": "2015-10-21T14:24:18.265Z",
+    "updated": "2015-11-19T12:31:29.472Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.91888029999996,
+    "title": "RAOUL's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.9443743,
+    "created": "2015-10-21T14:37:07.869Z",
+    "updated": "2015-11-19T12:31:29.473Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.02512999999999,
+    "title": "Clemens Lange's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 46.2437479,
+    "created": "2015-10-21T14:37:16.117Z",
+    "updated": "2015-11-19T12:31:29.476Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 24.6616348,
+    "title": "Pierre Gronlier's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 59.3971199,
+    "created": "2015-10-21T14:41:07.741Z",
+    "updated": "2015-11-19T12:31:29.478Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.94270189999997,
+    "title": "de Internet Jongens's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.1944714,
+    "created": "2015-10-21T15:14:13.666Z",
+    "updated": "2015-11-19T12:31:29.480Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -8.63049750000005,
+    "title": "Nora's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.6680204,
+    "created": "2015-10-21T16:43:56.566Z",
+    "updated": "2015-11-19T12:31:29.483Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.75606379999999,
+    "title": "Elvis Leegwater's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.4870604,
+    "created": "2015-10-21T16:57:45.007Z",
+    "updated": "2015-11-19T12:31:29.485Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 8.75003849999996,
+    "title": "Scott Storck's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 49.8333412,
+    "created": "2015-10-21T17:33:38.302Z",
+    "updated": "2015-11-19T12:31:29.487Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 12.0917899999999,
+    "title": "Sven's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 49.01753,
+    "created": "2015-10-21T18:28:21.406Z",
+    "updated": "2015-11-19T12:31:29.489Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.37131269999998,
+    "title": "Menno's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.1548889,
+    "created": "2015-10-21T18:39:15.713Z",
+    "updated": "2015-11-19T12:31:29.492Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.65188220000005,
+    "title": "Volluta's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.9790674,
+    "created": "2015-10-21T18:53:22.302Z",
+    "updated": "2015-11-19T12:31:29.494Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.68938149999997,
+    "title": "Emanuel Wegh's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.9852405,
+    "created": "2015-10-21T19:00:40.194Z",
+    "updated": "2015-11-19T12:31:29.496Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.23810609999998,
+    "title": "Pieter's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3794668,
+    "created": "2015-10-21T19:15:49.943Z",
+    "updated": "2015-11-19T12:31:29.498Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.85864300000003,
+    "title": "drsdre's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3232561,
+    "created": "2015-10-21T19:33:17.651Z",
+    "updated": "2015-11-19T12:31:29.501Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 3.93194829999993,
+    "title": "Peter Bin's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.6559595,
+    "created": "2015-10-21T19:48:56.969Z",
+    "updated": "2015-11-19T12:31:29.503Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 11.4781791,
+    "title": "Thomas's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 48.1720332,
+    "created": "2015-10-21T20:39:12.822Z",
+    "updated": "2015-11-19T12:31:29.505Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.75090049999994,
+    "title": "Smart Business Parcs's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.9599741,
+    "created": "2015-10-21T21:00:33.507Z",
+    "updated": "2015-11-19T12:31:29.508Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.84736190000001,
+    "title": "Smart Business Parcs's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.9192887,
+    "created": "2015-10-21T21:01:51.094Z",
+    "updated": "2015-11-19T12:31:29.509Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.78724199999999,
+    "title": "Smart Business Parcs's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.8251115,
+    "created": "2015-10-21T21:03:20.197Z",
+    "updated": "2015-11-19T12:31:29.512Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.46924850000005,
+    "title": "Infralight's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.4927389,
+    "created": "2015-10-21T21:52:44.646Z",
+    "updated": "2015-11-19T12:31:29.514Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.03198210000005,
+    "title": "Bart's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0757956,
+    "created": "2015-10-21T22:44:14.651Z",
+    "updated": "2015-11-19T12:31:29.516Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 77.6411545,
+    "title": "Ajith Balakumar's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 12.9718915,
+    "created": "2015-10-22T04:07:46.929Z",
+    "updated": "2015-11-19T12:31:29.521Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 15.8817729,
+    "title": "Dokapp's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 46.8723271,
+    "created": "2015-10-22T06:27:53.102Z",
+    "updated": "2015-11-19T12:31:29.524Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.04655000000002,
+    "title": "Arnoud Vermeer's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3127605,
+    "created": "2015-10-22T06:56:23.273Z",
+    "updated": "2015-11-19T12:31:29.526Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 12.3476822,
+    "title": "Enrico Rubboli's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 44.2635492,
+    "created": "2015-10-22T08:23:15.186Z",
+    "updated": "2015-11-19T12:31:29.529Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.36494930000003,
+    "title": "Peter Creyghton's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0118781,
+    "created": "2015-10-22T08:42:08.203Z",
+    "updated": "2015-11-19T12:31:29.532Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.20259999999996,
+    "title": "Alain's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.69054,
+    "created": "2015-10-22T08:44:38.443Z",
+    "updated": "2015-11-19T12:31:29.533Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.30698559999996,
+    "title": "Rob Maas's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.3527893,
+    "created": "2015-10-22T09:18:09.870Z",
+    "updated": "2015-11-19T12:31:29.536Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.34848550000004,
+    "title": "Alexander Pluim's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.1659155,
+    "created": "2015-10-22T10:40:50.214Z",
+    "updated": "2015-11-19T12:31:29.539Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 2.26446369999996,
+    "title": "walid's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 48.7211037,
+    "created": "2015-10-22T10:47:33.948Z",
+    "updated": "2015-11-19T12:31:29.541Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.80833059999998,
+    "title": "Johan Wijngaard's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.2383331,
+    "created": "2015-10-22T11:28:26.517Z",
+    "updated": "2015-11-19T12:31:29.544Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.64555930000006,
+    "title": "Michiel Ootjers's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.375054,
+    "created": "2015-10-22T11:41:12.755Z",
+    "updated": "2015-11-19T12:31:29.546Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 9.12328079999997,
+    "title": "Pascal Stauffer's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 47.4298412,
+    "created": "2015-10-22T12:31:19.383Z",
+    "updated": "2015-11-19T12:31:29.548Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.99748260000001,
+    "title": "Erik de Bruijn's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.5824998,
+    "created": "2015-10-22T12:48:47.026Z",
+    "updated": "2015-11-19T12:31:29.551Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -1.25749819999999,
+    "title": "Love Hz's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.7424997,
+    "created": "2015-10-22T13:08:40.447Z",
+    "updated": "2015-11-19T12:31:29.553Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.81107299999996,
+    "title": "Volfugas's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 45.119296,
+    "created": "2015-10-22T15:43:58.416Z",
+    "updated": "2015-11-19T12:31:29.556Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.79245059999994,
+    "title": "Michael's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.2673611,
+    "created": "2015-10-22T17:05:23.258Z",
+    "updated": "2015-11-19T12:31:29.557Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.70702989999995,
+    "title": "Chris Colijn's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.9267886,
+    "created": "2015-10-22T17:13:17.000Z",
+    "updated": "2015-11-19T12:31:29.560Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 25.6171514,
+    "title": "Francois's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 43.0756739,
+    "created": "2015-10-22T18:12:18.605Z",
+    "updated": "2015-11-19T12:31:29.561Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.92837120000002,
+    "title": "karlan astrego's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3531854,
+    "created": "2015-10-22T19:03:42.055Z",
+    "updated": "2015-11-19T12:31:29.564Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.58453239999994,
+    "title": "Boris Geheniau's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.1913327,
+    "created": "2015-10-22T19:05:00.667Z",
+    "updated": "2015-11-19T12:31:29.566Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.03978000000006,
+    "title": "René's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.6792917,
+    "created": "2015-10-22T20:11:00.664Z",
+    "updated": "2015-11-19T12:31:29.568Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 100.5521142,
+    "title": "Songkrant Muneenaem's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 6.9529521,
+    "created": "2015-10-22T20:48:06.269Z",
+    "updated": "2015-11-19T12:31:29.571Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 2.35911450000003,
+    "title": "Phil75's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 48.8634799,
+    "created": "2015-10-22T21:46:17.927Z",
+    "updated": "2015-11-19T12:31:29.573Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.47675549999997,
+    "title": "MAD emergent art center's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.434641,
+    "created": "2015-10-22T22:33:47.498Z",
+    "updated": "2015-11-19T12:31:29.576Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -99.2215659,
+    "title": "cesar.gonzalez's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 18.9242095,
+    "created": "2015-10-23T03:38:01.129Z",
+    "updated": "2015-11-19T12:31:29.577Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.48622820000003,
+    "title": "PragmaticAll's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.5278574,
+    "created": "2015-10-23T05:03:37.290Z",
+    "updated": "2015-11-19T12:31:29.580Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 10.0377980000001,
+    "title": "Claus Hansen's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 56.087627,
+    "created": "2015-10-23T06:28:51.405Z",
+    "updated": "2015-11-19T12:31:29.582Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.33192829999996,
+    "title": "AppSaloon's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.9299586,
+    "created": "2015-10-23T07:08:26.110Z",
+    "updated": "2015-11-19T12:31:29.584Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.63572780000004,
+    "title": "Arjan's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3747282,
+    "created": "2015-10-23T08:33:32.661Z",
+    "updated": "2015-11-19T12:31:29.586Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -3.21809559999997,
+    "title": "Unsettling Limited's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 55.94882,
+    "created": "2015-10-23T11:27:36.652Z",
+    "updated": "2015-11-19T12:31:29.588Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 29.1739513,
+    "title": "Ahmet Cem KAYA's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 40.9498022,
+    "created": "2015-10-23T12:29:50.216Z",
+    "updated": "2015-11-19T12:31:29.591Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 78.486671,
+    "title": "rohith raj's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 17.385044,
+    "created": "2015-10-23T13:56:33.270Z",
+    "updated": "2015-11-19T12:31:29.593Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.73959500000001,
+    "title": "Fokko Visser's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.6369728,
+    "created": "2015-10-23T14:27:54.707Z",
+    "updated": "2015-11-19T12:31:29.595Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.70054660000005,
+    "title": "Ruud Vlaming's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.6902369,
+    "created": "2015-10-23T14:31:06.712Z",
+    "updated": "2015-11-19T12:31:29.597Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.12127980000002,
+    "title": "Studio September's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0968732,
+    "created": "2015-10-23T14:33:04.655Z",
+    "updated": "2015-11-19T12:31:29.599Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.41141349999998,
+    "title": "Process Consulting's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.1992517,
+    "created": "2015-10-23T14:37:10.821Z",
+    "updated": "2015-11-19T12:31:29.601Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 18.4118576999999,
+    "title": "Voys Telecom's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": -33.9275684,
+    "created": "2015-10-23T17:21:41.505Z",
+    "updated": "2015-11-19T12:31:29.604Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.56703110000001,
+    "title": "Devhouse Spindle's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.2096228,
+    "created": "2015-10-23T18:09:27.634Z",
+    "updated": "2015-11-19T12:31:29.605Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 8.18339430000003,
+    "title": "beatsnet.com's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 46.7262208,
+    "created": "2015-10-23T18:09:45.500Z",
+    "updated": "2015-11-19T12:31:29.608Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.54271530000005,
+    "title": "Frank Bodewes's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.1819232,
+    "created": "2015-10-23T18:38:41.549Z",
+    "updated": "2015-11-19T12:31:29.610Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.4500094,
+    "title": "Dennis's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.2399885,
+    "created": "2015-10-23T18:56:57.339Z",
+    "updated": "2015-11-19T12:31:29.612Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -3.73239339999998,
+    "title": "Valentín's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 40.3082504,
+    "created": "2015-10-23T22:07:44.962Z",
+    "updated": "2015-11-19T12:31:29.615Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 18.0869517,
+    "title": "Anders Mellbratt's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 59.3754198,
+    "created": "2015-10-23T23:41:54.130Z",
+    "updated": "2015-11-19T12:31:29.617Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.46924850000005,
+    "title": "Infralight's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.4927389,
+    "created": "2015-10-24T08:35:51.931Z",
+    "updated": "2015-11-19T12:31:29.619Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 14.4208879,
+    "title": "Marek Fort's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.1015926,
+    "created": "2015-10-24T09:15:49.581Z",
+    "updated": "2015-11-19T12:31:29.621Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.18803219999995,
+    "title": "Remco Kortekaas's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3585868,
+    "created": "2015-10-24T10:28:33.980Z",
+    "updated": "2015-11-19T12:31:29.624Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -1.64577450000002,
+    "title": "Alberto Labarga's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 42.812526,
+    "created": "2015-10-24T14:58:29.067Z",
+    "updated": "2015-11-19T12:31:29.625Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.69783310000003,
+    "title": "Han Boels's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.1208331,
+    "created": "2015-10-24T18:28:47.275Z",
+    "updated": "2015-11-19T12:31:29.628Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 31.2357116000001,
+    "title": "hussein's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 30.0444196,
+    "created": "2015-10-24T19:31:25.272Z",
+    "updated": "2015-11-19T12:31:29.630Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.59071259999996,
+    "title": "Jan Hadders's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.2031869,
+    "created": "2015-10-24T20:23:20.083Z",
+    "updated": "2015-11-19T12:31:29.632Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.61346309999999,
+    "title": "Frank's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3662651,
+    "created": "2015-10-25T07:44:29.139Z",
+    "updated": "2015-11-19T12:31:29.635Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.19042730000001,
+    "title": "Sivard Donkers's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.1277471,
+    "created": "2015-10-25T09:27:42.715Z",
+    "updated": "2015-11-19T12:31:29.637Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.75631969999995,
+    "title": "Leon Wetzel's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.1634743,
+    "created": "2015-10-25T09:45:58.526Z",
+    "updated": "2015-11-19T12:31:29.639Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.34530010000003,
+    "title": "Willem Giezeman's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0556698,
+    "created": "2015-10-25T12:49:12.815Z",
+    "updated": "2015-11-19T12:31:29.641Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.39661869999998,
+    "title": "Pieter Meulenhoff's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.2608348,
+    "created": "2015-10-25T13:48:55.131Z",
+    "updated": "2015-11-19T12:31:29.644Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -3.59855709999999,
+    "title": "richard lagrand's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 37.1773363,
+    "created": "2015-10-25T18:24:26.918Z",
+    "updated": "2015-11-19T12:31:29.645Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.59361579999995,
+    "title": "JD's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.6615345,
+    "created": "2015-10-25T21:49:31.432Z",
+    "updated": "2015-11-19T12:31:29.648Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -43.6187142,
+    "title": "Phelipe Rocha's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": -22.882388,
+    "created": "2015-10-25T22:26:55.696Z",
+    "updated": "2015-11-19T12:31:29.650Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 101.7406559,
+    "title": "Boon Khoo's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 3.060074,
+    "created": "2015-10-26T03:21:01.803Z",
+    "updated": "2015-11-19T12:31:29.653Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 16.9539734,
+    "title": "Apollogic's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.4546975,
+    "created": "2015-10-26T09:14:09.800Z",
+    "updated": "2015-11-19T12:31:29.655Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.5522459,
+    "title": "Dieuwer de Lange's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.2208834,
+    "created": "2015-10-26T09:51:37.279Z",
+    "updated": "2015-11-19T12:31:29.657Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.22418110000001,
+    "title": "LVM Software's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0963054,
+    "created": "2015-10-26T11:43:45.486Z",
+    "updated": "2015-11-19T12:31:29.660Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.1058683,
+    "title": "Doodle3D's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0754116,
+    "created": "2015-10-26T13:17:52.882Z",
+    "updated": "2015-11-19T12:31:29.662Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 3.44042230000002,
+    "title": "Jeroen Van de Voorde's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.0855139,
+    "created": "2015-10-26T13:39:48.006Z",
+    "updated": "2015-11-19T12:31:29.665Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.47030670000004,
+    "title": "R. van Rijsselt's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.4487385,
+    "created": "2015-10-26T13:44:12.446Z",
+    "updated": "2015-11-19T12:31:29.667Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -0.127758299999982,
+    "title": "Luciana's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.5073509,
+    "created": "2015-10-26T13:53:00.966Z",
+    "updated": "2015-11-19T12:31:29.669Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.54281179999998,
+    "title": "Frank Bodewes's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.1816322,
+    "created": "2015-10-26T15:01:28.326Z",
+    "updated": "2015-11-19T12:31:29.672Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.56463830000007,
+    "title": "Rick's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.2292333,
+    "created": "2015-10-26T15:20:24.996Z",
+    "updated": "2015-11-19T12:31:29.673Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -46.7206606,
+    "title": "Christian's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": -23.5864095,
+    "created": "2015-10-26T16:41:11.785Z",
+    "updated": "2015-11-19T12:31:29.676Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -71.326179,
+    "title": "David Dew's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 42.307371,
+    "created": "2015-10-26T16:51:57.196Z",
+    "updated": "2015-11-19T12:31:29.678Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.21950590000006,
+    "title": "Sjoerd Brandsma's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.7750073,
+    "created": "2015-10-26T17:36:25.797Z",
+    "updated": "2015-11-19T12:31:29.680Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.8617395,
+    "title": "PietjeNL's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0795543,
+    "created": "2015-10-26T19:17:07.806Z",
+    "updated": "2015-11-19T12:31:29.683Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -112.047804,
+    "title": "Tyler Brocious's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 41.155336,
+    "created": "2015-10-26T19:41:12.761Z",
+    "updated": "2015-11-19T12:31:29.685Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 36.8337368,
+    "title": "Moses Odhiambo's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": -1.310341,
+    "created": "2015-10-26T21:52:45.602Z",
+    "updated": "2015-11-19T12:31:29.687Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 115.907365,
+    "title": "Steve Bramley's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": -31.981785,
+    "created": "2015-10-26T23:07:20.293Z",
+    "updated": "2015-11-19T12:31:29.689Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 3.839651,
+    "title": "FraJa WeB's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.3199519,
+    "created": "2015-10-27T00:32:52.378Z",
+    "updated": "2015-11-19T12:31:29.692Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.21949419999999,
+    "title": "Café 't Boemeltje's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3748577,
+    "created": "2015-10-27T03:54:34.368Z",
+    "updated": "2015-11-19T12:31:29.694Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 115.841461,
+    "title": "Norm van Boeijen's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": -31.9413504,
+    "created": "2015-10-27T05:48:47.077Z",
+    "updated": "2015-11-19T12:31:29.696Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 3.44042230000002,
+    "title": "Jeroen Van de Voorde's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.0855139,
+    "created": "2015-10-27T07:40:26.180Z",
+    "updated": "2015-11-19T12:31:29.699Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.32221440000001,
+    "title": "sam bruurs's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0748251,
+    "created": "2015-10-27T08:15:59.012Z",
+    "updated": "2015-11-19T12:31:29.701Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.27868490000003,
+    "title": "Anne Jan Elsinga's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.2203115,
+    "created": "2015-10-27T09:07:20.229Z",
+    "updated": "2015-11-19T12:31:29.703Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.76015540000003,
+    "title": "Steven's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.672227,
+    "created": "2015-10-27T09:31:10.403Z",
+    "updated": "2015-11-19T12:31:29.705Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.73796459999994,
+    "title": "Dennis Smit's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.9829156,
+    "created": "2015-10-27T09:43:05.758Z",
+    "updated": "2015-11-19T12:31:29.708Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.21012259999998,
+    "title": "Alain's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.6785178,
+    "created": "2015-10-27T09:56:38.322Z",
+    "updated": "2015-11-19T12:31:29.709Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.84717360000002,
+    "title": "Benjamin's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3474991,
+    "created": "2015-10-27T10:28:47.741Z",
+    "updated": "2015-11-19T12:31:29.712Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.40218019999998,
+    "title": "V-Square SE's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.1600462,
+    "created": "2015-10-27T12:25:51.421Z",
+    "updated": "2015-11-19T12:31:29.714Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.21195009999997,
+    "title": "InToto's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0635687,
+    "created": "2015-10-27T12:50:39.518Z",
+    "updated": "2015-11-19T12:31:29.716Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.62795159999996,
+    "title": "Chris's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.2754993,
+    "created": "2015-10-27T13:27:57.308Z",
+    "updated": "2015-11-19T12:31:29.719Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.37457089999998,
+    "title": "Filip Onkelinx's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.9458694,
+    "created": "2015-10-27T13:38:41.303Z",
+    "updated": "2015-11-19T12:31:29.721Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 114.1655064,
+    "title": "Andante's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 22.4423218,
+    "created": "2015-10-28T01:53:24.834Z",
+    "updated": "2015-11-19T12:31:29.723Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 12.107669,
+    "title": "Giuseppe Stancanelli's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 42.4206766,
+    "created": "2015-10-28T08:31:34.712Z",
+    "updated": "2015-11-19T12:31:29.725Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -2.58360879999998,
+    "title": "Nathan Chantrell's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.3888235,
+    "created": "2015-10-28T10:26:41.200Z",
+    "updated": "2015-11-19T12:31:29.728Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.9223121,
+    "title": "Ton Zijlstra's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.226272,
+    "created": "2015-10-28T10:39:33.741Z",
+    "updated": "2015-11-19T12:31:29.729Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -47.7853259,
+    "title": "Rafael Martins's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": -15.6435728,
+    "created": "2015-10-28T11:42:34.822Z",
+    "updated": "2015-11-19T12:31:29.732Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.63912830000004,
+    "title": "4BIS INNOVATIONS's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3801996,
+    "created": "2015-10-28T11:57:14.341Z",
+    "updated": "2015-11-19T12:31:29.735Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.82458550000001,
+    "title": "Jean Huveneers's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.9710615,
+    "created": "2015-10-28T12:04:03.287Z",
+    "updated": "2015-11-19T12:31:29.737Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 81.8040344999999,
+    "title": "Lokesh Chebolu's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 17.0005383,
+    "created": "2015-10-28T15:07:41.653Z",
+    "updated": "2015-11-19T12:31:29.739Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 78.486671,
+    "title": "lokesh's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 17.385044,
+    "created": "2015-10-28T18:09:10.320Z",
+    "updated": "2015-11-19T12:31:29.741Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.3456721,
+    "title": "Timo Smit's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0346547,
+    "created": "2015-10-28T19:45:52.043Z",
+    "updated": "2015-11-19T12:31:29.744Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -73.896752,
+    "title": "Mihail Donski's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 45.445309,
+    "created": "2015-10-28T21:55:06.067Z",
+    "updated": "2015-11-19T12:31:29.745Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -0.192425299999968,
+    "title": "Nadav's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 5.6115555,
+    "created": "2015-10-29T00:38:23.153Z",
+    "updated": "2015-11-19T12:31:29.748Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -95.4126831,
+    "title": "william.sikkema's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 29.7141224,
+    "created": "2015-10-29T01:16:42.979Z",
+    "updated": "2015-11-19T12:31:29.750Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 78.486671,
+    "title": "lokesh's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 17.385044,
+    "created": "2015-10-29T04:06:16.640Z",
+    "updated": "2015-11-19T12:31:29.752Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 77.3762260999999,
+    "title": "Amit Kumar's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 28.611892,
+    "created": "2015-10-29T08:45:03.995Z",
+    "updated": "2015-11-19T12:31:29.755Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.28946859999996,
+    "title": "Robert's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.2117228,
+    "created": "2015-10-29T09:11:30.017Z",
+    "updated": "2015-11-19T12:31:29.757Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.80658849999998,
+    "title": "Flora.Solutions's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.2769567,
+    "created": "2015-10-29T10:47:16.117Z",
+    "updated": "2015-11-19T12:31:29.759Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.83565899999996,
+    "title": "iui's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 45.764043,
+    "created": "2015-10-29T11:43:10.244Z",
+    "updated": "2015-11-19T12:31:29.761Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 80.2707184000001,
+    "title": "KARAN's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 13.0826802,
+    "created": "2015-10-29T11:45:52.040Z",
+    "updated": "2015-11-19T12:31:29.764Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.11052659999996,
+    "title": "B van Mullem's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3325285,
+    "created": "2015-10-29T11:49:25.983Z",
+    "updated": "2015-11-19T12:31:29.765Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.89541340000005,
+    "title": "Tim Toornvliet's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0756634,
+    "created": "2015-10-29T11:50:16.101Z",
+    "updated": "2015-11-19T12:31:29.768Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.33248000000003,
+    "title": "toon nelissen's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.93069,
+    "created": "2015-10-29T11:58:15.680Z",
+    "updated": "2015-11-19T12:31:29.770Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.97878030000004,
+    "title": "Pieter Holtrop's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.2115987,
+    "created": "2015-10-29T12:18:11.255Z",
+    "updated": "2015-11-19T12:31:29.772Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.75234520000004,
+    "title": "Gijsbert Six's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.7726177,
+    "created": "2015-10-29T12:19:05.179Z",
+    "updated": "2015-11-19T12:31:29.775Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.89541340000005,
+    "title": "Nederland ICT's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0756634,
+    "created": "2015-10-29T12:28:18.016Z",
+    "updated": "2015-11-19T12:31:29.777Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.89798380000002,
+    "title": "willem's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.39542,
+    "created": "2015-10-29T12:37:45.642Z",
+    "updated": "2015-11-19T12:31:29.779Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.28764739999997,
+    "title": "Hans Donner's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3914271,
+    "created": "2015-10-29T13:26:40.356Z",
+    "updated": "2015-11-19T12:31:29.781Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 18.5915494999999,
+    "title": "Nikhil Misra's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": -33.8842447,
+    "created": "2015-10-29T13:44:17.012Z",
+    "updated": "2015-11-19T12:31:29.785Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 8.52604810000003,
+    "title": "Alex Suzuki's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 47.3936872,
+    "created": "2015-10-29T16:41:00.340Z",
+    "updated": "2015-11-19T12:31:29.788Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -43.9656135,
+    "title": "Sebastian Kummer's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": -19.9385362,
+    "created": "2015-10-29T18:46:55.960Z",
+    "updated": "2015-11-19T12:31:29.790Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.05657180000003,
+    "title": "Marco van den Hout's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.5191052,
+    "created": "2015-10-29T22:12:01.549Z",
+    "updated": "2015-11-19T12:31:29.793Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.68216229999996,
+    "title": "Alexander's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.0291155,
+    "created": "2015-10-29T22:51:38.329Z",
+    "updated": "2015-11-19T12:31:29.796Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -73.9725684,
+    "title": "Peter Kazazes's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 40.7957017,
+    "created": "2015-10-30T00:32:35.241Z",
+    "updated": "2015-11-19T12:31:29.799Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 20.4161685,
+    "title": "Nikola Petkovi?'s Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 44.8227845,
+    "created": "2015-10-30T07:50:00.133Z",
+    "updated": "2015-11-19T12:31:29.801Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.75458830000002,
+    "title": "Sebas's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.6253623,
+    "created": "2015-10-30T09:01:35.099Z",
+    "updated": "2015-11-19T12:31:29.804Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.44162919999997,
+    "title": "Gerard Niersman's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.1243551,
+    "created": "2015-10-30T10:54:23.711Z",
+    "updated": "2015-11-19T12:31:29.806Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.53695100000004,
+    "title": "Tinus Geertsma's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.0673812,
+    "created": "2015-10-30T11:20:06.336Z",
+    "updated": "2015-11-19T12:31:29.808Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.68746439999995,
+    "title": "Anton de Jager's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.7963636,
+    "created": "2015-10-30T16:24:38.658Z",
+    "updated": "2015-11-19T12:31:29.811Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 2.15892770000005,
+    "title": "Carlos's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 41.4068884,
+    "created": "2015-10-30T22:02:30.401Z",
+    "updated": "2015-11-19T12:31:29.813Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -123.1207375,
+    "title": "Boris Mann's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 49.2827291,
+    "created": "2015-10-31T00:31:58.710Z",
+    "updated": "2015-11-19T12:31:29.816Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.1853519,
+    "title": "Kees van Rossenberg's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.1770657,
+    "created": "2015-10-31T07:12:13.111Z",
+    "updated": "2015-11-19T12:31:29.818Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -89.5878579,
+    "title": "james brown's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 36.876719,
+    "created": "2015-10-31T09:23:02.553Z",
+    "updated": "2015-11-19T12:31:29.820Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.11579749999999,
+    "title": "hilco's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3267797,
+    "created": "2015-10-31T19:42:28.762Z",
+    "updated": "2015-11-19T12:31:29.822Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 8.54034760000002,
+    "title": "Michael's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 47.5196118,
+    "created": "2015-10-31T23:20:16.223Z",
+    "updated": "2015-11-19T12:31:29.824Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -112.04293,
+    "title": "Devin Fleenor's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 33.499853,
+    "created": "2015-11-01T01:14:45.601Z",
+    "updated": "2015-11-19T12:31:29.827Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.86928369999998,
+    "title": "Maarten Boerma's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3451182,
+    "created": "2015-11-01T09:01:42.950Z",
+    "updated": "2015-11-19T12:31:29.829Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.87509980000004,
+    "title": "Edzo's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.1062782,
+    "created": "2015-11-01T12:19:39.295Z",
+    "updated": "2015-11-19T12:31:29.831Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -52.698313,
+    "title": "Jake Clifford's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 47.6121849,
+    "created": "2015-11-01T15:27:55.839Z",
+    "updated": "2015-11-19T12:31:29.833Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.4198533,
+    "title": "Michel Bos's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.1226223,
+    "created": "2015-11-01T19:27:45.666Z",
+    "updated": "2015-11-19T12:31:29.839Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 119.296494,
+    "title": "linyuying's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 26.074508,
+    "created": "2015-11-02T07:18:03.491Z",
+    "updated": "2015-11-19T12:31:29.841Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 9.32480140000007,
+    "title": "Daniele Soppelsa's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 45.3432852,
+    "created": "2015-11-02T08:31:11.593Z",
+    "updated": "2015-11-19T12:31:29.844Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.46637839999994,
+    "title": "Robbert's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.92559,
+    "created": "2015-11-02T09:06:54.280Z",
+    "updated": "2015-11-19T12:31:29.846Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.23255280000001,
+    "title": "ramon semmekrot's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.1405939,
+    "created": "2015-11-02T10:15:37.593Z",
+    "updated": "2015-11-19T12:31:29.849Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.79665019999993,
+    "title": "Andy Lo-A-Foe's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3522993,
+    "created": "2015-11-02T23:59:11.621Z",
+    "updated": "2015-11-19T12:31:29.851Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.61705519999998,
+    "title": "Eloy Hensen's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.4637745,
+    "created": "2015-11-03T10:09:54.132Z",
+    "updated": "2015-11-19T12:31:29.853Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.97149560000003,
+    "title": "Lucas Weel's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.206493,
+    "created": "2015-11-03T12:28:28.161Z",
+    "updated": "2015-11-19T12:31:29.856Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.06965519999994,
+    "title": "Peter van Es's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.2498913,
+    "created": "2015-11-03T14:54:51.708Z",
+    "updated": "2015-11-19T12:31:29.857Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.87806380000006,
+    "title": "IoT Nederland, Adri Wischmann's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.7533906,
+    "created": "2015-11-03T15:26:36.164Z",
+    "updated": "2015-11-19T12:31:29.860Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 77.0266383000001,
+    "title": "Vivek Srivsastava's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 28.4594965,
+    "created": "2015-11-03T15:55:42.311Z",
+    "updated": "2015-11-19T12:31:29.863Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.3413084,
+    "title": "Port of Houwerzijl's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.3373344,
+    "created": "2015-11-03T16:34:41.881Z",
+    "updated": "2015-11-19T12:31:29.865Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.52944400000001,
+    "title": "Frank's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.7603259,
+    "created": "2015-11-03T20:34:54.333Z",
+    "updated": "2015-11-19T12:31:29.867Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 77.6219748999999,
+    "title": "Krishna Susarla's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 13.0426594,
+    "created": "2015-11-04T05:44:53.118Z",
+    "updated": "2015-11-19T12:31:29.869Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.36839380000004,
+    "title": "Piter Blom's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0398178,
+    "created": "2015-11-04T07:12:16.961Z",
+    "updated": "2015-11-19T12:31:29.872Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -43.1899349,
+    "title": "Carlos Cid's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": -22.9685008,
+    "created": "2015-11-04T18:24:28.136Z",
+    "updated": "2015-11-19T12:31:29.874Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 16.9539734,
+    "title": "Apollogic's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.4546975,
+    "created": "2015-11-05T07:38:37.563Z",
+    "updated": "2015-11-19T12:31:29.877Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.92989390000002,
+    "title": "Patrick C.'s Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.5362767,
+    "created": "2015-11-05T08:38:23.584Z",
+    "updated": "2015-11-19T12:31:29.880Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.10505330000001,
+    "title": "Steven van Dalen's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.9853071,
+    "created": "2015-11-05T09:33:05.180Z",
+    "updated": "2015-11-19T12:31:29.882Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -5.91365840000003,
+    "title": "Paul Campbell's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 54.5686123,
+    "created": "2015-11-05T19:26:53.977Z",
+    "updated": "2015-11-19T12:31:29.885Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -5.97322659999998,
+    "title": "P. CAMPBELL's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 54.6016007,
+    "created": "2015-11-05T19:33:41.850Z",
+    "updated": "2015-11-19T12:31:29.888Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -5.96762820000004,
+    "title": "PG CAMPBELL's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 54.5771397,
+    "created": "2015-11-05T19:50:18.720Z",
+    "updated": "2015-11-19T12:31:29.890Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 13.0567454,
+    "title": "Johan Elmerfjord's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 55.6948151,
+    "created": "2015-11-06T10:55:11.137Z",
+    "updated": "2015-11-19T12:31:29.893Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -46.8662018,
+    "title": "Victor Rosa's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": -23.4768588,
+    "created": "2015-11-06T11:58:35.593Z",
+    "updated": "2015-11-19T12:31:29.896Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.70632460000002,
+    "title": "Marja's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.2045019,
+    "created": "2015-11-06T21:25:17.968Z",
+    "updated": "2015-11-19T12:31:29.898Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.3767052,
+    "title": "@rasquert's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.1655044,
+    "created": "2015-11-06T21:25:17.971Z",
+    "updated": "2015-11-19T12:31:29.900Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.53274999999996,
+    "title": "Hanzehogeschool Groningen's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.24097,
+    "created": "2015-11-06T21:25:17.972Z",
+    "updated": "2015-11-19T12:31:29.903Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.34141709999994,
+    "title": "Pieter E. Zanstra's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.3368213,
+    "created": "2015-11-06T21:25:17.974Z",
+    "updated": "2015-11-19T12:31:29.905Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.29949199999999,
+    "title": "Seal Productions's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.337393,
+    "created": "2015-11-06T21:25:17.976Z",
+    "updated": "2015-11-19T12:31:29.907Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.54281179999998,
+    "title": "Frank's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.1816322,
+    "created": "2015-11-06T21:25:17.978Z",
+    "updated": "2015-11-19T12:31:29.909Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.39533529999994,
+    "title": "Noordhorn - Pieter Meulenhoff's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.2608598,
+    "created": "2015-11-06T21:25:17.979Z",
+    "updated": "2015-11-19T12:31:29.912Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.56417399999998,
+    "title": "Concept7's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.22455,
+    "created": "2015-11-06T21:25:17.982Z",
+    "updated": "2015-11-19T12:31:29.913Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.59985440000003,
+    "title": "Arien's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.0876508,
+    "created": "2015-11-06T21:25:17.983Z",
+    "updated": "2015-11-19T12:31:29.916Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.42901299999994,
+    "title": "initFour websolutions's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.198823,
+    "created": "2015-11-06T21:25:17.986Z",
+    "updated": "2015-11-19T12:31:29.918Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.53190399999994,
+    "title": "Wild Sea - De Ommelanden's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.230898,
+    "created": "2015-11-06T21:25:17.987Z",
+    "updated": "2015-11-19T12:31:29.920Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.59001799999999,
+    "title": "Peperzaken - Mediacentrale's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.204048,
+    "created": "2015-11-06T21:25:17.988Z",
+    "updated": "2015-11-19T12:31:29.922Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.569568,
+    "title": "MAD multimedia's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.217288,
+    "created": "2015-11-06T21:25:17.990Z",
+    "updated": "2015-11-19T12:31:29.924Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.58121000000006,
+    "title": "Malengo - Zuiderpark's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.215267,
+    "created": "2015-11-06T21:25:17.991Z",
+    "updated": "2015-11-19T12:31:29.927Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.5868553,
+    "title": "Josh's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.2295366,
+    "created": "2015-11-06T21:25:17.994Z",
+    "updated": "2015-11-19T12:31:29.929Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.57451900000001,
+    "title": "Storm Marketing Consultants's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.216747,
+    "created": "2015-11-06T21:25:17.995Z",
+    "updated": "2015-11-19T12:31:29.931Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.52995580000004,
+    "title": "Mark's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.2034935,
+    "created": "2015-11-06T21:25:17.996Z",
+    "updated": "2015-11-19T12:31:29.933Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.63379469999995,
+    "title": "Geert Doornbos's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.3654395,
+    "created": "2015-11-06T21:25:17.998Z",
+    "updated": "2015-11-19T12:31:29.935Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.55203940000001,
+    "title": "Jarno's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.2268197,
+    "created": "2015-11-06T21:25:17.999Z",
+    "updated": "2015-11-19T12:31:29.937Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.61734920000004,
+    "title": "Verlengde Bremenweg's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.2123348,
+    "created": "2015-11-06T21:25:18.001Z",
+    "updated": "2015-11-19T12:31:29.940Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.53243999999995,
+    "title": "Lode B.V.'s Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.244151,
+    "created": "2015-11-06T21:25:18.003Z",
+    "updated": "2015-11-19T12:31:29.941Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.56703110000001,
+    "title": "Devhouse Spindle - The Big Building's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.2096228,
+    "created": "2015-11-06T21:25:18.004Z",
+    "updated": "2015-11-19T12:31:29.944Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.79257910000001,
+    "title": "Marco's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.9296213,
+    "created": "2015-11-06T21:25:18.006Z",
+    "updated": "2015-11-19T12:31:29.945Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.82315930000004,
+    "title": "François Aubriot's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 45.7472371,
+    "created": "2015-11-06T21:55:23.709Z",
+    "updated": "2015-11-19T12:31:29.948Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.78849719999994,
+    "title": "Martin Croome's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 45.1200999,
+    "created": "2015-11-07T11:48:11.594Z",
+    "updated": "2015-11-19T12:31:29.950Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.19605839999997,
+    "title": "BalefireHQ's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.142736,
+    "created": "2015-11-07T14:00:49.971Z",
+    "updated": "2015-11-19T12:31:29.952Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -1.55355770000006,
+    "title": "Sam's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.7498595,
+    "created": "2015-11-08T14:22:19.323Z",
+    "updated": "2015-11-19T12:31:29.955Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 108.4369603,
+    "title": "Leo Dalat's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 11.94242,
+    "created": "2015-11-08T17:38:18.275Z",
+    "updated": "2015-11-19T12:31:29.957Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.62290970000004,
+    "title": "roland van straten's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.896922,
+    "created": "2015-11-09T17:37:50.250Z",
+    "updated": "2015-11-19T12:31:29.959Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -74.0087126,
+    "title": "Richard Canneman's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 40.7136487,
+    "created": "2015-11-09T17:48:48.490Z",
+    "updated": "2015-11-19T12:31:29.961Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.05465500000003,
+    "title": "Clemens Lange's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 46.2295905,
+    "created": "2015-11-09T18:01:52.525Z",
+    "updated": "2015-11-19T12:31:29.964Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 2.38538560000006,
+    "title": "Jean-Yves Moulin's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 48.8535457,
+    "created": "2015-11-09T18:07:42.602Z",
+    "updated": "2015-11-19T12:31:29.965Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.13743640000007,
+    "title": "Jurjen de Vries's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0652051,
+    "created": "2015-11-09T18:16:19.480Z",
+    "updated": "2015-11-19T12:31:29.968Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.7036746,
+    "title": "MarcelDevG's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.7089805,
+    "created": "2015-11-09T19:03:34.128Z",
+    "updated": "2015-11-19T12:31:29.970Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.34530010000003,
+    "title": "Willem Giezeman's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0556698,
+    "created": "2015-11-09T19:30:20.201Z",
+    "updated": "2015-11-19T12:31:29.973Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.36100269999997,
+    "title": "Aart's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0089231,
+    "created": "2015-11-09T19:47:38.831Z",
+    "updated": "2015-11-19T12:31:29.975Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.68183810000005,
+    "title": "Emanuel Wegh's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.9797466,
+    "created": "2015-11-09T20:00:13.482Z",
+    "updated": "2015-11-19T12:31:29.977Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -71.0824613,
+    "title": "Rodolfo Ruiz's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 42.3635847,
+    "created": "2015-11-09T21:36:19.112Z",
+    "updated": "2015-11-19T12:31:29.980Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.73780499999998,
+    "title": "loic lietar's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 45.205168,
+    "created": "2015-11-09T22:38:10.033Z",
+    "updated": "2015-11-19T12:31:29.981Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.66049210000006,
+    "title": "Danny Engelman's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.316033,
+    "created": "2015-11-10T08:02:16.390Z",
+    "updated": "2015-11-19T12:31:29.984Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 8.26383090000002,
+    "title": "Benjamin's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 47.4978612,
+    "created": "2015-11-10T11:56:46.217Z",
+    "updated": "2015-11-19T12:31:29.986Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 8.26383090000002,
+    "title": "Benjamin's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 47.4978612,
+    "created": "2015-11-10T14:02:15.194Z",
+    "updated": "2015-11-19T12:31:29.989Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 8.73513560000004,
+    "title": "Manuel's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 47.2392343,
+    "created": "2015-11-10T17:07:08.272Z",
+    "updated": "2015-11-19T12:31:29.991Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 3.05725600000005,
+    "title": "Clément Fumey's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.62925,
+    "created": "2015-11-10T19:51:53.609Z",
+    "updated": "2015-11-19T12:31:29.993Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.82253519999995,
+    "title": "Siem Simonis's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.8382094,
+    "created": "2015-11-10T22:27:11.883Z",
+    "updated": "2015-11-19T12:31:29.995Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.49490509999998,
+    "title": "Robert Verspuy's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3503461,
+    "created": "2015-11-10T22:40:02.904Z",
+    "updated": "2015-11-19T12:31:29.997Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 153.08035,
+    "title": "Joku's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": -27.559911,
+    "created": "2015-11-11T07:54:32.640Z",
+    "updated": "2015-11-19T12:31:30.000Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 2.45382829999994,
+    "title": "Can Fugarolas's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 41.5404948,
+    "created": "2015-11-11T09:01:21.878Z",
+    "updated": "2015-11-19T12:31:30.002Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 76.2673041,
+    "title": "vimal gopal's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 9.9312328,
+    "created": "2015-11-11T14:09:54.170Z",
+    "updated": "2015-11-19T12:31:30.004Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -2.98442380000006,
+    "title": "Patrick Fenner's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.40291,
+    "created": "2015-11-11T14:43:21.761Z",
+    "updated": "2015-11-19T12:31:30.006Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.47753620000003,
+    "title": "DraadloosMechelen's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.0258761,
+    "created": "2015-11-11T15:10:11.164Z",
+    "updated": "2015-11-19T12:31:30.009Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -1.52670160000002,
+    "title": "Grahame Horner's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 54.9734825,
+    "created": "2015-11-11T22:37:10.800Z",
+    "updated": "2015-11-19T12:31:30.011Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -61.024174,
+    "title": "MIKAH's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 14.641528,
+    "created": "2015-11-12T03:26:28.527Z",
+    "updated": "2015-11-19T12:31:30.013Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -122.0124023,
+    "title": "EKM Metering Inc's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 36.9798353,
+    "created": "2015-11-12T17:35:05.403Z",
+    "updated": "2015-11-19T12:31:30.015Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.22123899999997,
+    "title": "Marcel van der Ven's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.9365359,
+    "created": "2015-11-13T06:18:56.146Z",
+    "updated": "2015-11-19T12:31:30.017Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.25443429999996,
+    "title": "Henri Udding's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.1196044,
+    "created": "2015-11-13T10:41:03.318Z",
+    "updated": "2015-11-19T12:31:30.020Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 103.903236,
+    "title": "Ang Yi Shun's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 1.401196,
+    "created": "2015-11-13T10:58:06.862Z",
+    "updated": "2015-11-19T12:31:30.022Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.56093350000003,
+    "title": "Lichtenvoorde's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.9805285,
+    "created": "2015-11-13T13:29:21.188Z",
+    "updated": "2015-11-19T12:31:30.024Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.5274349,
+    "title": "AltijdThuis's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.4477614,
+    "created": "2015-11-13T16:17:30.897Z",
+    "updated": "2015-11-19T12:31:30.027Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 39.8978052,
+    "title": "Alexsander's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 59.2180665,
+    "created": "2015-11-13T20:07:31.992Z",
+    "updated": "2015-11-19T12:31:30.029Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 106.845599,
+    "title": "Edy Gunawan's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": -6.2087634,
+    "created": "2015-11-14T04:31:11.371Z",
+    "updated": "2015-11-19T12:31:30.031Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.88521019999996,
+    "title": "Martin Wolters's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.7627337,
+    "created": "2015-11-14T07:39:14.823Z",
+    "updated": "2015-11-19T12:31:30.033Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.62947170000007,
+    "title": "Sander Kollerie's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.4046751,
+    "created": "2015-11-14T22:36:33.790Z",
+    "updated": "2015-11-19T12:31:30.036Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 8.49663450000003,
+    "title": "HanspeterH's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 47.4047687,
+    "created": "2015-11-15T11:46:49.284Z",
+    "updated": "2015-11-19T12:31:30.037Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 2.25779999999997,
+    "title": "Adam Wetherden Cerico's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 41.9305812,
+    "created": "2015-11-16T11:03:31.216Z",
+    "updated": "2015-11-19T12:31:30.040Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.5847559,
+    "title": "Harco de Jager's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.2107592,
+    "created": "2015-11-16T14:57:48.852Z",
+    "updated": "2015-11-19T12:31:30.042Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.83891900000003,
+    "title": "Arnold Agema's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.0448841,
+    "created": "2015-11-16T23:09:00.984Z",
+    "updated": "2015-11-19T12:31:30.044Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 1.444209,
+    "title": "max's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 43.604652,
+    "created": "2015-11-17T07:47:23.580Z",
+    "updated": "2015-11-19T12:31:30.047Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 9.90528819999997,
+    "title": "Karsten Hecker's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.5671668,
+    "created": "2015-11-17T08:02:25.941Z",
+    "updated": "2015-11-19T12:31:30.049Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.88730099999998,
+    "title": "Teun's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3722544,
+    "created": "2015-11-17T15:16:40.582Z",
+    "updated": "2015-11-19T12:31:30.051Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.28677540000001,
+    "title": "P. Quaedvlieg's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.648635,
+    "created": "2015-11-17T15:45:08.141Z",
+    "updated": "2015-11-19T12:31:30.053Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 29.7817809000001,
+    "title": "Heikki's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 62.6085293,
+    "created": "2015-11-17T17:57:34.561Z",
+    "updated": "2015-11-19T12:31:30.056Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 174.7558157,
+    "title": "Phosphor Essence Limited's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": -36.8648815,
+    "created": "2015-11-17T21:31:38.805Z",
+    "updated": "2015-11-19T12:31:30.057Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.46570629999997,
+    "title": "Dirk's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.5146522,
+    "created": "2015-11-18T10:52:11.152Z",
+    "updated": "2015-11-19T12:31:30.060Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.85088289999999,
+    "title": "Jaap Beetstra's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.2117179,
+    "created": "2015-11-18T14:19:08.234Z",
+    "updated": "2015-11-19T12:31:30.062Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -89.482614,
+    "title": "Megan's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 38.7541298,
+    "created": "2015-11-18T18:44:25.397Z",
+    "updated": "2015-11-19T12:31:30.064Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.97735360000001,
+    "title": "Henny's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3627663,
+    "created": "2015-11-19T00:51:19.081Z",
+    "updated": "2015-11-19T12:31:30.067Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -114.2468963,
+    "title": "Grant Macdonald's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.1421615,
+    "created": "2015-11-19T06:06:38.939Z",
+    "updated": "2015-11-19T12:33:43.012Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -122.320862,
+    "title": "James Hauk's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 37.573498,
+    "created": "2015-11-19T10:41:43.147Z",
+    "updated": "2015-11-19T12:31:30.072Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 0.0,
+    "title": "Hello's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 5.439966999999999,
+    "created": "2015-11-19T14:51:22.827Z",
+    "updated": "2015-11-19T14:51:22.827Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 0.0,
+    "title": "Stéphane's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 48.4067872,
+    "created": "2015-11-19T15:01:28.938Z",
+    "updated": "2015-11-19T15:01:28.938Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 0.0,
+    "title": "naeem's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 43.40008479999999,
+    "created": "2015-11-19T15:15:32.030Z",
+    "updated": "2015-11-19T15:15:32.030Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.341520400000036,
+    "title": "Port of Houwerzijl's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 53.33721,
+    "created": "2015-11-20T08:39:20.896Z",
+    "updated": "2015-11-20T08:39:20.896Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -1.9484098000000358,
+    "title": "Nestor Ayuso's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 43.280929,
+    "created": "2015-11-20T09:01:15.316Z",
+    "updated": "2015-11-20T09:01:15.317Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 70.79229699999996,
+    "title": "Ketan's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 21.9619463,
+    "created": "2015-11-20T09:41:30.043Z",
+    "updated": "2015-11-20T09:41:30.043Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 70.79229699999996,
+    "title": "Ketan's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 21.9619463,
+    "created": "2015-11-20T09:41:30.971Z",
+    "updated": "2015-11-20T09:41:30.971Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.300466700000015,
+    "title": "Lan Hiang's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.0326506,
+    "created": "2015-11-20T09:44:56.908Z",
+    "updated": "2015-11-20T09:44:56.908Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 14.015402999999992,
+    "title": "NotTheEvilOne's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.18350840000001,
+    "created": "2015-11-20T10:05:19.193Z",
+    "updated": "2015-11-20T10:05:19.193Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.2286300000000665,
+    "title": "Yves Goeleven's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.01158,
+    "created": "2015-11-20T10:21:30.538Z",
+    "updated": "2015-11-20T10:21:30.538Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.470230000000015,
+    "title": "Bram Troch's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 51.0162468,
+    "created": "2015-11-20T11:00:07.087Z",
+    "updated": "2015-11-20T11:00:07.087Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -70.64547299999998,
+    "title": "chaoticcoders.org's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 41.3804981,
+    "created": "2015-11-20T14:01:50.900Z",
+    "updated": "2015-11-20T14:01:50.900Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -1.0255746000000272,
+    "title": "Mike King's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.8772554,
+    "created": "2015-11-20T14:07:24.453Z",
+    "updated": "2015-11-20T14:07:24.453Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.607255200000054,
+    "title": "Alwin's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.3562378,
+    "created": "2015-11-20T14:51:17.686Z",
+    "updated": "2015-11-20T14:51:17.686Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.138350500000001,
+    "title": "E. van Luijk's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.2631814,
+    "created": "2015-11-20T15:40:37.144Z",
+    "updated": "2015-11-20T15:40:37.144Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.7366031999999905,
+    "title": "Batilan's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.71525870000001,
+    "created": "2015-11-20T16:05:13.033Z",
+    "updated": "2015-11-20T16:05:13.034Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.210122599999977,
+    "title": "Alain's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.67851779999999,
+    "created": "2015-11-20T17:22:06.143Z",
+    "updated": "2015-11-20T17:22:06.143Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.732265600000005,
+    "title": "Michael Bischoff's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.8429126,
+    "created": "2015-11-20T18:08:14.842Z",
+    "updated": "2015-11-20T18:08:14.842Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.494690499999933,
+    "title": "Rob van der Veer's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.14810259999999,
+    "created": "2015-11-20T21:13:52.054Z",
+    "updated": "2015-11-20T21:13:52.054Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -0.6435820000000376,
+    "title": "Dan B's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.912524,
+    "created": "2015-11-21T11:49:17.619Z",
+    "updated": "2015-11-21T11:49:17.619Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.433562400000028,
+    "title": "Ewoud's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.2406308,
+    "created": "2015-11-22T00:11:44.767Z",
+    "updated": "2015-11-22T00:11:44.767Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 6.810039400000051,
+    "title": "Martijn's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.7488883,
+    "created": "2015-11-22T10:26:05.956Z",
+    "updated": "2015-11-22T10:26:05.956Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 4.715922399999954,
+    "title": "waltert's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.00945919999999,
+    "created": "2015-11-23T13:06:24.248Z",
+    "updated": "2015-11-23T13:06:24.248Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 5.177216000000044,
+    "title": "Arjan van der Oest's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 52.35180039999999,
+    "created": "2015-11-23T13:49:47.984Z",
+    "updated": "2015-11-23T13:49:47.984Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": -46.6845247,
+    "title": "Flavio's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": -23.6208425,
+    "created": "2015-11-23T19:08:31.274Z",
+    "updated": "2015-11-23T19:08:31.275Z",
+    "status": "PL",
+    "kickstarter": true
+  },
+  {
+    "lon": 3.2676060000000007,
+    "title": "Steven's Kickstarter Gateway",
+    "rng": 3000.0,
+    "lat": 50.8348909,
+    "created": "2015-11-24T20:01:42.108Z",
+    "updated": "2015-11-24T20:01:42.108Z",
+    "status": "PL",
+    "kickstarter": true
+  }
+]
