@@ -12,3 +12,10 @@
     border-bottom: 1px solid #EEE;
     padding: 10px 5px;
 }
+
+#github_badge {
+    z-index: 2000;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
